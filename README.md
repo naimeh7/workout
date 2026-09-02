@@ -6,3 +6,4 @@
 6.BACK
 chest
 full
+shoulder
